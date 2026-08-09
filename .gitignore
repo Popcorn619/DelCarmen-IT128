@@ -1,0 +1,24 @@
+
+code .gitignore
+# Ignore Windows system files
+NTUSER.DAT*
+AppData/
+*.regtrans-ms
+*.blf
+*.log*
+
+# Ignore user directories
+Desktop/
+Downloads/
+Favorites/
+Videos/
+
+
+
+
+
+
+
+
+
+
